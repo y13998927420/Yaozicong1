@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.TOP2{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.top2-left{
+    height: 30px;
+    width: 30px;
+    background: url("../img/返回.png")no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.top2-center{
+    height: 30px;
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.top2-right{
+    height: 30px;
+    width: 30px;
+    background: url("../img/购物车.png")no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.o1{
+    border-bottom: deeppink 2px solid ;
+}
+.iphone img{
+    height: 400px;
+    width: 100%;
+}
+.center1{
+    height: 90px;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    margin-left: 5px;
+}
+.c1{
+    color: red;
+    font-size: 25px;
+    margin-left: 1px;
+}
+.c2{
+    color:black;
+    margin-left: 1px;
+}
+.c3{
+    color: gray;
+    margin-left: 1px;
+}
+.r7{
+    height: 15px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.t1{
+    display: flex;
+    flex-flow: column;
+}
+.t2{
+    height: 40px;
+    display: flex;
+    justify-content: left;
+    margin-left: 5px;
+    font-size: 15px;
+
+}
+.t3{
+    color: gray;
+    margin-left: 2px;
+}
+.t4{
+    color: red;
+    margin-left: 25px;
+}
+.t5{
+    color: black;
+    margin-left: 25px;
+}
+.n1{
+    height: 35px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.n2{
+    color: gray;
+    margin-left: 5px;
+}
+.n3{
+    color: black;
+    margin-left: 15px;
+}
+.c9{
+    height: 30px;
+    width: 100%;
+    margin-left: 5px;
+}
+.other{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.other-left{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 40px;
+    width: 45%;
+    background-color: gainsboro;
+}
+.other-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 40px;
+    width: 45%;
+    background-color: gainsboro;
+}
+.content-top{
+    display: flex;
+
+}
+.l1{
+    margin-left: 5px;
+}
+
+.l2 img{
+    height: 20px;
+    width: 20px;
+    margin-top: 2px ;
+    margin-left: 150px;
+}
+.l3{
+    text-decoration: none;
+}
+.content-center{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.c10{
+    height: 10px;
+    width: 100%;
+}
+.pinglun1 img{
+    height: 100%;
+    width: 100%;
+}
